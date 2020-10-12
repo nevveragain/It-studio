@@ -1,0 +1,32 @@
+
+.icon_arrow_right::before {
+    content: '\f054';
+    font-weight: 300;
+}
+
+.icon_play::before {
+    content: '\f144';
+    font-weight: 900;
+    color: #4985FF;
+}
+
+.icon_play::after {
+    content: '\10f144';
+    font-weight: 900;
+    position: absolute;
+}
+
+.icon_mail::before {
+    content: '\f0e0';
+    font-weight: 300;
+}
+
+.icon_map::before {
+    content: '\f3c5';
+    font-weight: 300;
+}
+
+.icon_phone::before {
+    content: '\f879';
+    font-weight: 300;
+}
